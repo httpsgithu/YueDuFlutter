@@ -23,7 +23,7 @@ dependencies:
   # 以下内容将 Cupertino Icons 字体添加到您的应用程序中。
   # 与 CupertinoIcons 类一起使用，用于iOS样式图标。
   cupertino_icons: ^0.1.2
-  dio: ^2.1.13
+  dio: ">=2.1.13 <6.0.0"
   flutter_redux: ^0.5.3
   fluttertoast: ^3.1.0
   json_annotation: ^3.0.0
